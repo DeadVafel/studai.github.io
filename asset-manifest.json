@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/studai.github.io/static/css/main.36e5ffe9.css",
+    "main.js": "/studai.github.io/static/js/main.813a593e.js",
+    "static/js/453.9ec667a1.chunk.js": "/studai.github.io/static/js/453.9ec667a1.chunk.js",
+    "static/media/placeholder-bot-catalog.jpg": "/studai.github.io/static/media/placeholder-bot-catalog.c0af2aa10f543c062cc3.jpg",
+    "static/media/placeholder-bot-question-answer.jpg": "/studai.github.io/static/media/placeholder-bot-question-answer.c0af2aa10f543c062cc3.jpg",
+    "static/media/placeholder-bot-start.jpg": "/studai.github.io/static/media/placeholder-bot-start.c0af2aa10f543c062cc3.jpg",
+    "index.html": "/studai.github.io/index.html",
+    "main.36e5ffe9.css.map": "/studai.github.io/static/css/main.36e5ffe9.css.map",
+    "main.813a593e.js.map": "/studai.github.io/static/js/main.813a593e.js.map",
+    "453.9ec667a1.chunk.js.map": "/studai.github.io/static/js/453.9ec667a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36e5ffe9.css",
+    "static/js/main.813a593e.js"
+  ]
+}
